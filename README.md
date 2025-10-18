@@ -23,5 +23,5 @@
 
 
 план:
-1 main              100
-2 documentation     100
+1 main              
+2 documentation     
